@@ -12,4 +12,4 @@ export class FileItem {
     this.progreso = 0;
     this.url = '';
   }
-}
+} 
